@@ -1,0 +1,9 @@
+[submodule "pod"]
+	path = pod
+	url = https://github.com/jc444304/rajly-pod
+[submodule "web"]
+	path = web
+	url = https://github.com/jc444304/rajly-web
+[submodule "app"]
+	path = app
+	url = https://github.com/jc444304/rajly-app
