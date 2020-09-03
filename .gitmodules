@@ -1,12 +1,19 @@
 [submodule "pod"]
-	path = pod
-	url = https://github.com/jc444304/rajly-pod
+    path = pod
+    url = https://github.com/yvan-burrie-jcu/pancreart-pod
+
 [submodule "web"]
-	path = web
-	url = https://github.com/jc444304/rajly-web
+    path = web
+    url = https://github.com/yvan-burrie-jcu/pancreart-web
+
 [submodule "app"]
-	path = app
-	url = https://github.com/jc444304/rajly-app
+    path = app
+    url = https://github.com/yvan-burrie-jcu/pancreart-app
+
 [submodule "doc"]
-	path = doc
-	url = https://github.com/jc444304/rajly.wiki
+    path = doc
+    url = https://github.com/yvan-burrie-jcu/pancreart.wiki
+
+[submodule "jv"]
+    path = jv
+    url = https://github.com/yvan-burrie-jcu/pancreart-java
